@@ -31,7 +31,7 @@ To become proficient in building **production-grade AI systems** by designing, d
 | Status | Project | Repository |
 | :---: | :--- | :--- |
 | ✅ | **Stateful Chatbot** | [Link](https://github.com/jashwanth7ram/CLI_CHATBOT.git) |
-| 👷🏻‍♂️ | **Tool Calling Agent** | *Not Started* |
+| 👷🏻‍♂️ | **Tool Calling Agent** | *Be Ready i am cooking* |
 | 🔒 | **Retrieval-Augmented Generation (RAG) Pipeline** | *Not Started* |
 | 🔒 | **Multi-Agent Supervisor** | *Not Started* |
 | 🔒 | **Human-in-the-Loop Workflow** | *Not Started* |
