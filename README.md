@@ -65,39 +65,8 @@ To become proficient in building **production-grade AI systems** by designing, d
 
 ---
 
-## 🗺️ Learning Path
 
-```text
-Stateful Chatbot
-        │
-        ▼
-Tool Calling Agent
-        │
-        ▼
-RAG Pipeline
-        │
-        ▼
-Multi-Agent Supervisor
-        │
-        ▼
-Human-in-the-Loop Workflow
-        │
-        ▼
-AI Document Intelligence API
-        │
-        ▼
-Autonomous Research Assistant
-        │
-        ▼
-AI SQL Analyst
-        │
-        ▼
-DevMind
-```
-
----
-
-## 📂 Repository Structure
+## 📂 Repository Structure(Not for the basic Projects)
 
 Each project repository includes:
 
@@ -125,10 +94,10 @@ Throughout this roadmap, I focus on:
 ## 📈 Progress
 
 ```text
-█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5%
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
 ```
 
-**Current Project:** Stateful Chatbot
+**Current Project:** Tool Calling Agent
 
 ---
 
