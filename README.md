@@ -26,20 +26,20 @@ To become proficient in building **production-grade AI systems** by designing, d
 
 ---
 
-# 📚 Project Roadmap
+## 📚 Project Roadmap
 
-| Status | Project                                           | Repository       |
-| :----: | ------------------------------------------------- | ---------------- |
-|   🚧   | **Stateful Chatbot**                              | *[Link](https://github.com/jashwanth7ram/CLI_CHATBOT)* | 
-* |
-|    ⏳   | **Tool Calling Agent**                            | 🔒 *Not Started* |
-|    ⏳   | **Retrieval-Augmented Generation (RAG) Pipeline** | 🔒 *Not Started* |
-|    ⏳   | **Multi-Agent Supervisor**                        | 🔒 *Not Started* |
-|    ⏳   | **Human-in-the-Loop Workflow**                    | 🔒 *Not Started* |
-|    ⏳   | **AI Document Intelligence API**                  | 🔒 *Not Started* |
-|    ⏳   | **Autonomous Research Assistant**                 | 🔒 *Not Started* |
-|    ⏳   | **AI SQL Analyst**                                | 🔒 *Not Started* |
-|    ⏳   | **DevMind – AI Software Engineering Platform**    | 🔒 *Not Started* |
+| Status | Project | Repository |
+| :---: | :--- | :--- |
+| 🚧 | **Stateful Chatbot** | [Link](https://github.com/jashwanth7ram/CLI_CHATBOT.git) |
+| 🔒 | **Tool Calling Agent** | *Not Started* |
+| 🔒 | **Retrieval-Augmented Generation (RAG) Pipeline** | *Not Started* |
+| 🔒 | **Multi-Agent Supervisor** | *Not Started* |
+| 🔒 | **Human-in-the-Loop Workflow** | *Not Started* |
+| 🔒 | **AI Document Intelligence API** | *Not Started* |
+| 🔒 | **Autonomous Research Assistant** | *Not Started* |
+| 🔒 | **AI SQL Analyst** | *Not Started* |
+| 🔒 | **DevMind – AI Software Engineering Platform** | *Not Started* |
+
 
 ---
 
