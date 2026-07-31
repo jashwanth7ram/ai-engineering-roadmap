@@ -94,10 +94,10 @@ Throughout this roadmap, I focus on:
 ## 📈 Progress
 
 ```text
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 0%
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 5%
 ```
 
-**Current Project:** Tool Calling Agent
+**Current Project:** RAG(The Buzzword)
 
 ---
 
